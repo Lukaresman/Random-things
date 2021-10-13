@@ -1,0 +1,474 @@
+{
+  "h": {
+    "id": "1",
+    "name": "vodik"
+  },
+  "li": {
+    "id": "3",
+    "name": "litij"
+  },
+  "na": {
+    "id": "11",
+    "name": "natrij"
+  },
+  "k": {
+    "id": "19",
+    "name": "kalij"
+  },
+  "rb": {
+    "id": "37",
+    "name": "rubidij"
+  },
+  "cs": {
+    "id": "55",
+    "name": "celzij"
+  },
+  "fr": {
+    "id": "87",
+    "name": "francij"
+  },
+  "be": {
+    "id": "4",
+    "name": "berilij"
+  },
+  "mg": {
+    "id": "12",
+    "name": "magnezij"
+  },
+  "ca": {
+    "id": "20",
+    "name": "kalcij"
+  },
+  "sr": {
+    "id": "38",
+    "name": "stroncij"
+  },
+  "ba": {
+    "id": "56",
+    "name": "barij"
+  },
+  "ra": {
+    "id": "88",
+    "name": "radij"
+  },
+  "sc": {
+    "id": "21",
+    "name": "skandij"
+  },
+  "y": {
+    "id": "39",
+    "name": "irij"
+  },
+  "ti": {
+    "id": "22",
+    "name": "titan"
+  },
+  "zr": {
+    "id": "40",
+    "name": "cirkonij"
+  },
+  "hf": {
+    "id": "72",
+    "name": "hafnij"
+  },
+  "rf": {
+    "id": "104",
+    "name": "raderfodij"
+  },
+  "v": {
+    "id": "23",
+    "name": "vanadij"
+  },
+  "nb": {
+    "id": "41",
+    "name": "niobij"
+  },
+  "ta": {
+    "id": "73",
+    "name": "tantal"
+  },
+  "db": {
+    "id": "105",
+    "name": "dubnij"
+  },
+  "cr": {
+    "id": "24",
+    "name": "krom"
+  },
+  "mo": {
+    "id": "42",
+    "name": "molibdem"
+  },
+  "w": {
+    "id": "74",
+    "name": "volfram"
+  },
+  "sg": {
+    "id": "106",
+    "name": "siborgij"
+  },
+  "mn": {
+    "id": "25",
+    "name": "mangan"
+  },
+  "tc": {
+    "id": "43",
+    "name": "tehnecij"
+  },
+  "re": {
+    "id": "75",
+    "name": "renij"
+  },
+  "bh": {
+    "id": "107",
+    "name": "borij"
+  },
+  "fe": {
+    "id": "26",
+    "name": "železo"
+  },
+  "ru": {
+    "id": "44",
+    "name": "rutenij"
+  },
+  "os": {
+    "id": "76",
+    "name": "osmij"
+  },
+  "hs": {
+    "id": "108",
+    "name": "hasij"
+  },
+  "co": {
+    "id": "27",
+    "name": "kobalt"
+  },
+  "rh": {
+    "id": "45",
+    "name": "rodij"
+  },
+  "ir": {
+    "id": "77",
+    "name": "idrij"
+  },
+  "mt": {
+    "id": "109",
+    "name": "majtnerij"
+  },
+  "ni": {
+    "id": "28",
+    "name": "nikelj"
+  },
+  "pd": {
+    "id": "46",
+    "name": "paladij"
+  },
+  "pt": {
+    "id": "78",
+    "name": "platina"
+  },
+  "ds": {
+    "id": "110",
+    "name": "darmštatij"
+  },
+  "cu": {
+    "id": "29",
+    "name": "baker"
+  },
+  "ag": {
+    "id": "47",
+    "name": "srebro"
+  },
+  "au": {
+    "id": "79",
+    "name": "zlato"
+  },
+  "rg": {
+    "id": "111",
+    "name": "rentgenij"
+  },
+  "zn": {
+    "id": "30",
+    "name": "cink"
+  },
+  "cd": {
+    "id": "48",
+    "name": "kadmij"
+  },
+  "hg": {
+    "id": "80",
+    "name": "živo srebro"
+  },
+  "cn": {
+    "id": "112",
+    "name": "kopernicij"
+  },
+  "b": {
+    "id": "5",
+    "name": "bor"
+  },
+  "al": {
+    "id": "13",
+    "name": "aluminij"
+  },
+  "ga": {
+    "id": "31",
+    "name": "galij"
+  },
+  "in": {
+    "id": "49",
+    "name": "indij"
+  },
+  "tl": {
+    "id": "81",
+    "name": "talij"
+  },
+  "nh": {
+    "id": "113",
+    "name": "nihonij"
+  },
+  "c": {
+    "id": "6",
+    "name": "ogljik"
+  },
+  "si": {
+    "id": "14",
+    "name": "silicij"
+  },
+  "ge": {
+    "id": "32",
+    "name": "germanij"
+  },
+  "sn": {
+    "id": "50",
+    "name": "kositer"
+  },
+  "pb": {
+    "id": "82",
+    "name": "svinec"
+  },
+  "fl": {
+    "id": "114",
+    "name": "flerovij"
+  },
+  "n": {
+    "id": "7",
+    "name": "dušik"
+  },
+  "p": {
+    "id": "15",
+    "name": "fosfor"
+  },
+  "as": {
+    "id": "33",
+    "name": "arzen"
+  },
+  "sb": {
+    "id": "51",
+    "name": "antimon"
+  },
+  "bi": {
+    "id": "83",
+    "name": "bizmut"
+  },
+  "mc": {
+    "id": "115",
+    "name": "moskovij"
+  },
+  "o": {
+    "id": "8",
+    "name": "kisik"
+  },
+  "s": {
+    "id": "16",
+    "name": "žveplo"
+  },
+  "se": {
+    "id": "34",
+    "name": "selen"
+  },
+  "te": {
+    "id": "52",
+    "name": "telur"
+  },
+  "po": {
+    "id": "84",
+    "name": "polonij"
+  },
+  "lv": {
+    "id": "116",
+    "name": "livermorij"
+  },
+  "f": {
+    "id": "9",
+    "name": "fulor"
+  },
+  "cl": {
+    "id": "17",
+    "name": "klor"
+  },
+  "br": {
+    "id": "35",
+    "name": "brom"
+  },
+  "i": {
+    "id": "53",
+    "name": "jod"
+  },
+  "at": {
+    "id": "85",
+    "name": "astat"
+  },
+  "ts": {
+    "id": "117",
+    "name": "tenesin"
+  },
+  "he": {
+    "id": "2",
+    "name": "helij"
+  },
+  "ne": {
+    "id": "10",
+    "name": "neon"
+  },
+  "ar": {
+    "id": "18",
+    "name": "argon"
+  },
+  "kr": {
+    "id": "36",
+    "name": "kripton"
+  },
+  "xe": {
+    "id": "54",
+    "name": "ksenon"
+  },
+  "rn": {
+    "id": "86",
+    "name": "radon"
+  },
+  "og": {
+    "id": "118",
+    "name": "oganeson"
+  },
+  "la": {
+    "id": "57",
+    "name": "lantan"
+  },
+  "ce": {
+    "id": "58",
+    "name": "cerij"
+  },
+  "pr": {
+    "id": "59",
+    "name": "prazeodim"
+  },
+  "nd": {
+    "id": "60",
+    "name": "neodim"
+  },
+  "pm": {
+    "id": "61",
+    "name": "prometeji"
+  },
+  "sm": {
+    "id": "62",
+    "name": "samarij"
+  },
+  "eu": {
+    "id": "63",
+    "name": "europij"
+  },
+  "gd": {
+    "id": "64",
+    "name": "gadolinij"
+  },
+  "tb": {
+    "id": "65",
+    "name": "terbij"
+  },
+  "dy": {
+    "id": "66",
+    "name": "disprozij"
+  },
+  "ho": {
+    "id": "67",
+    "name": "holmij"
+  },
+  "er": {
+    "id": "68",
+    "name": "erbij"
+  },
+  "tm": {
+    "id": "69",
+    "name": "tulij"
+  },
+  "yb": {
+    "id": "70",
+    "name": "iterbij"
+  },
+  "lu": {
+    "id": "71",
+    "name": "lutecij"
+  },
+  "ac": {
+    "id": "89",
+    "name": "aktinij"
+  },
+  "th": {
+    "id": "90",
+    "name": "torij"
+  },
+  "pa": {
+    "id": "91",
+    "name": "protaktinij"
+  },
+  "u": {
+    "id": "92",
+    "name": "uran"
+  },
+  "np": {
+    "id": "93",
+    "name": "neptunij"
+  },
+  "pu": {
+    "id": "94",
+    "name": "plutonij"
+  },
+  "am": {
+    "id": "95",
+    "name": "americij"
+  },
+  "cm": {
+    "id": "96",
+    "name": "kirij"
+  },
+  "bk": {
+    "id": "97",
+    "name": "berkelij"
+  },
+  "cf": {
+    "id": "98",
+    "name": "kalifornij"
+  },
+  "es": {
+    "id": "99",
+    "name": "ajnštajni"
+  },
+  "fm": {
+    "id": "100",
+    "name": "fermij"
+  },
+  "md": {
+    "id": "101",
+    "name": "mendelevij"
+  },
+  "no": {
+    "id": "102",
+    "name": "nobelij"
+  },
+  "lr": {
+    "id": "103",
+    "name": "lavrencij"
+  }
+}
