@@ -1,474 +1,858 @@
 {
   "h": {
     "id": "1",
-    "name": "vodik"
+    "name": "vodik",
+    "state": "plinasto",
+    "group": "1",
+    "period": "1"
   },
   "li": {
     "id": "3",
-    "name": "litij"
+    "name": "litij",
+    "state": "trdno",
+    "group": "1",
+    "period": "2"
   },
   "na": {
     "id": "11",
-    "name": "natrij"
+    "name": "natrij",
+    "state": "trdno",
+    "group": "1",
+    "period": "3"
   },
   "k": {
     "id": "19",
-    "name": "kalij"
+    "name": "kalij",
+    "state": "trdno",
+    "group": "1",
+    "period": "4"
   },
   "rb": {
     "id": "37",
-    "name": "rubidij"
+    "name": "rubidij",
+    "state": "trdno",
+    "group": "1",
+    "period": "5"
   },
   "cs": {
     "id": "55",
-    "name": "celzij"
+    "name": "celzij",
+    "state": "trdno",
+    "group": "1",
+    "period": "6"
   },
   "fr": {
     "id": "87",
-    "name": "francij"
+    "name": "francij",
+    "state": "trdno",
+    "group": "1",
+    "period": "7"
   },
   "be": {
     "id": "4",
-    "name": "berilij"
+    "name": "berilij",
+    "state": "trdno",
+    "group": "2",
+    "period": "2"
   },
   "mg": {
     "id": "12",
-    "name": "magnezij"
+    "name": "magnezij",
+    "state": "trdno",
+    "group": "2",
+    "period": "3"
   },
   "ca": {
     "id": "20",
-    "name": "kalcij"
+    "name": "kalcij",
+    "state": "trdno",
+    "group": "2",
+    "period": "4"
   },
   "sr": {
     "id": "38",
-    "name": "stroncij"
+    "name": "stroncij",
+    "state": "trdno",
+    "group": "2",
+    "period": "5"
   },
   "ba": {
     "id": "56",
-    "name": "barij"
+    "name": "barij",
+    "state": "trdno",
+    "group": "2",
+    "period": "6"
   },
   "ra": {
     "id": "88",
-    "name": "radij"
+    "name": "radij",
+    "state": "trdno",
+    "group": "2",
+    "period": "7"
   },
   "sc": {
     "id": "21",
-    "name": "skandij"
+    "name": "skandij",
+    "state": "trdno",
+    "group": "3",
+    "period": "4"
   },
   "y": {
     "id": "39",
-    "name": "itrij"
+    "name": "itrij",
+    "state": "trdno",
+    "group": "3",
+    "period": "5"
   },
   "ti": {
     "id": "22",
-    "name": "titan"
+    "name": "titan",
+    "state": "trdno",
+    "group": "4",
+    "period": "4"
   },
   "zr": {
     "id": "40",
-    "name": "cirkonij"
+    "name": "cirkonij",
+    "state": "trdno",
+    "group": "4",
+    "period": "5"
   },
   "hf": {
     "id": "72",
-    "name": "hafnij"
+    "name": "hafnij",
+    "state": "trdno",
+    "group": "4",
+    "period": "6"
   },
   "rf": {
     "id": "104",
-    "name": "raderfodij"
+    "name": "raderfodij",
+    "state": "trdno",
+    "group": "4",
+    "period": "7"
   },
   "v": {
     "id": "23",
-    "name": "vanadij"
+    "name": "vanadij",
+    "state": "trdno",
+    "group": "5",
+    "period": "4"
   },
   "nb": {
     "id": "41",
-    "name": "niobij"
+    "name": "niobij",
+    "state": "trdno",
+    "group": "5",
+    "period": "5"
   },
   "ta": {
     "id": "73",
-    "name": "tantal"
+    "name": "tantal",
+    "state": "trdno",
+    "group": "5",
+    "period": "6"
   },
   "db": {
     "id": "105",
-    "name": "dubnij"
+    "name": "dubnij",
+    "state": "trdno",
+    "group": "5",
+    "period": "7"
   },
   "cr": {
     "id": "24",
-    "name": "krom"
+    "name": "krom",
+    "state": "trdno",
+    "group": "6",
+    "period": "4"
   },
   "mo": {
     "id": "42",
-    "name": "molibdem"
+    "name": "molibdem",
+    "state": "trdno",
+    "group": "6",
+    "period": "5"
   },
   "w": {
     "id": "74",
-    "name": "volfram"
+    "name": "volfram",
+    "state": "trdno",
+    "group": "6",
+    "period": "6"
   },
   "sg": {
     "id": "106",
-    "name": "siborgij"
+    "name": "siborgij",
+    "state": "trdno",
+    "group": "6",
+    "period": "7"
   },
   "mn": {
     "id": "25",
-    "name": "mangan"
+    "name": "mangan",
+    "state": "trdno",
+    "group": "7",
+    "period": "4"
   },
   "tc": {
     "id": "43",
-    "name": "tehnecij"
+    "name": "tehnecij",
+    "state": "trdno",
+    "group": "7",
+    "period": "5"
   },
   "re": {
     "id": "75",
-    "name": "renij"
+    "name": "renij",
+    "state": "trdno",
+    "group": "7",
+    "period": "6"
   },
   "bh": {
     "id": "107",
-    "name": "borij"
+    "name": "borij",
+    "state": "trdno",
+    "group": "7",
+    "period": "7"
   },
   "fe": {
     "id": "26",
-    "name": "železo"
+    "name": "železo",
+    "state": "trdno",
+    "group": "8",
+    "period": "4"
   },
   "ru": {
     "id": "44",
-    "name": "rutenij"
+    "name": "rutenij",
+    "state": "trdno",
+    "group": "8",
+    "period": "5"
   },
   "os": {
     "id": "76",
-    "name": "osmij"
+    "name": "osmij",
+    "state": "trdno",
+    "group": "8",
+    "period": "6"
   },
   "hs": {
     "id": "108",
-    "name": "hasij"
+    "name": "hasij",
+    "state": "trdno",
+    "group": "8",
+    "period": "7"
   },
   "co": {
     "id": "27",
-    "name": "kobalt"
+    "name": "kobalt",
+    "state": "trdno",
+    "group": "9",
+    "period": "4"
   },
   "rh": {
     "id": "45",
-    "name": "rodij"
+    "name": "rodij",
+    "state": "trdno",
+    "group": "9",
+    "period": "5"
   },
   "ir": {
     "id": "77",
-    "name": "idrij"
+    "name": "idrij",
+    "state": "trdno",
+    "group": "9",
+    "period": "6"
   },
   "mt": {
     "id": "109",
-    "name": "majtnerij"
+    "name": "majtnerij",
+    "state": "trdno",
+    "group": "9",
+    "period": "7"
   },
   "ni": {
     "id": "28",
-    "name": "nikelj"
+    "name": "nikelj",
+    "state": "trdno",
+    "group": "10",
+    "period": "4"
   },
   "pd": {
     "id": "46",
-    "name": "paladij"
+    "name": "paladij",
+    "state": "trdno",
+    "group": "10",
+    "period": "5"
   },
   "pt": {
     "id": "78",
-    "name": "platina"
+    "name": "platina",
+    "state": "trdno",
+    "group": "10",
+    "period": "6"
   },
   "ds": {
     "id": "110",
-    "name": "darmštatij"
+    "name": "darmštatij",
+    "state": "trdno",
+    "group": "10",
+    "period": "7"
   },
   "cu": {
     "id": "29",
-    "name": "baker"
+    "name": "baker",
+    "state": "trdno",
+    "group": "11",
+    "period": "4"
   },
   "ag": {
     "id": "47",
-    "name": "srebro"
+    "name": "srebro",
+    "state": "trdno",
+    "group": "11",
+    "period": "5"
   },
   "au": {
     "id": "79",
-    "name": "zlato"
+    "name": "zlato",
+    "state": "trdno",
+    "group": "11",
+    "period": "6"
   },
   "rg": {
     "id": "111",
-    "name": "rentgenij"
+    "name": "rentgenij",
+    "state": "trdno",
+    "group": "11",
+    "period": "7"
   },
   "zn": {
     "id": "30",
-    "name": "cink"
+    "name": "cink",
+    "state": "trdno",
+    "group": "12",
+    "period": "4"
   },
   "cd": {
     "id": "48",
-    "name": "kadmij"
+    "name": "kadmij",
+    "state": "trdno",
+    "group": "12",
+    "period": "5"
   },
   "hg": {
     "id": "80",
-    "name": "živo srebro"
+    "name": "živo srebro",
+    "state": "tekoče",
+    "group": "12",
+    "period": "6"
   },
   "cn": {
     "id": "112",
-    "name": "kopernicij"
+    "name": "kopernicij",
+    "state": "trdno",
+    "group": "12",
+    "period": "7"
   },
   "b": {
     "id": "5",
-    "name": "bor"
+    "name": "bor",
+    "state": "trdno",
+    "group": "13",
+    "period": "2"
   },
   "al": {
     "id": "13",
-    "name": "aluminij"
+    "name": "aluminij",
+    "state": "trdno",
+    "group": "13",
+    "period": "3"
   },
   "ga": {
     "id": "31",
-    "name": "galij"
+    "name": "galij",
+    "state": "trdno",
+    "group": "13",
+    "period": "4"
   },
   "in": {
     "id": "49",
-    "name": "indij"
+    "name": "indij",
+    "state": "trdno",
+    "group": "13",
+    "period": "5"
   },
   "tl": {
     "id": "81",
-    "name": "talij"
+    "name": "talij",
+    "state": "trdno",
+    "group": "13",
+    "period": "6"
   },
   "nh": {
     "id": "113",
-    "name": "nihonij"
+    "name": "nihonij",
+    "state": "trdno",
+    "group": "13",
+    "period": "7"
   },
   "c": {
     "id": "6",
-    "name": "ogljik"
+    "name": "ogljik",
+    "state": "trdno",
+    "group": "14",
+    "period": "2"
   },
   "si": {
     "id": "14",
-    "name": "silicij"
+    "name": "silicij",
+    "state": "trdno",
+    "group": "14",
+    "period": "3"
   },
   "ge": {
     "id": "32",
-    "name": "germanij"
+    "name": "germanij",
+    "state": "trdno",
+    "group": "14",
+    "period": "4"
   },
   "sn": {
     "id": "50",
-    "name": "kositer"
+    "name": "kositer",
+    "state": "trdno",
+    "group": "14",
+    "period": "5"
   },
   "pb": {
     "id": "82",
-    "name": "svinec"
+    "name": "svinec",
+    "state": "trdno",
+    "group": "14",
+    "period": "6"
   },
   "fl": {
     "id": "114",
-    "name": "flerovij"
+    "name": "flerovij",
+    "state": "trdno",
+    "group": "14",
+    "period": "7"
   },
   "n": {
     "id": "7",
-    "name": "dušik"
+    "name": "dušik",
+    "state": "plinasto",
+    "group": "15",
+    "period": "2"
   },
   "p": {
     "id": "15",
-    "name": "fosfor"
+    "name": "fosfor",
+    "state": "trdno",
+    "group": "15",
+    "period": "3"
   },
   "as": {
     "id": "33",
-    "name": "arzen"
+    "name": "arzen",
+    "state": "trdno",
+    "group": "15",
+    "period": "4"
   },
   "sb": {
     "id": "51",
-    "name": "antimon"
+    "name": "antimon",
+    "state": "trdno",
+    "group": "15",
+    "period": "5"
   },
   "bi": {
     "id": "83",
-    "name": "bizmut"
+    "name": "bizmut",
+    "state": "trdno",
+    "group": "15",
+    "period": "6"
   },
   "mc": {
     "id": "115",
-    "name": "moskovij"
+    "name": "moskovij",
+    "state": "trdno",
+    "group": "15",
+    "period": "7"
   },
   "o": {
     "id": "8",
-    "name": "kisik"
+    "name": "kisik",
+    "state": "plinasto",
+    "group": "16",
+    "period": "2"
   },
   "s": {
     "id": "16",
-    "name": "žveplo"
+    "name": "žveplo",
+    "state": "trdno",
+    "group": "16",
+    "period": "3"
   },
   "se": {
     "id": "34",
-    "name": "selen"
+    "name": "selen",
+    "state": "trdno",
+    "group": "16",
+    "period": "4"
   },
   "te": {
     "id": "52",
-    "name": "telur"
+    "name": "telur",
+    "state": "trdno",
+    "group": "16",
+    "period": "5"
   },
   "po": {
     "id": "84",
-    "name": "polonij"
+    "name": "polonij",
+    "state": "trdno",
+    "group": "16",
+    "period": "6"
   },
   "lv": {
     "id": "116",
-    "name": "livermorij"
+    "name": "livermorij",
+    "state": "trdno",
+    "group": "16",
+    "period": "7"
   },
   "f": {
     "id": "9",
-    "name": "fulor"
+    "name": "fulor",
+    "state": "plinasto",
+    "group": "17",
+    "period": "2"
   },
   "cl": {
     "id": "17",
-    "name": "klor"
+    "name": "klor",
+    "state": "plinasto",
+    "group": "17",
+    "period": "3"
   },
   "br": {
     "id": "35",
-    "name": "brom"
+    "name": "brom",
+    "state": "tekoče",
+    "group": "17",
+    "period": "4"
   },
   "i": {
     "id": "53",
-    "name": "jod"
+    "name": "jod",
+    "state": "trdno",
+    "group": "17",
+    "period": "5"
   },
   "at": {
     "id": "85",
-    "name": "astat"
+    "name": "astat",
+    "state": "trdno",
+    "group": "17",
+    "period": "6"
   },
   "ts": {
     "id": "117",
-    "name": "tenesin"
+    "name": "tenesin",
+    "state": "trdno",
+    "group": "17",
+    "period": "7"
   },
   "he": {
     "id": "2",
-    "name": "helij"
+    "name": "helij",
+    "state": "plinasto",
+    "group": "18",
+    "period": "1"
   },
   "ne": {
     "id": "10",
-    "name": "neon"
+    "name": "neon",
+    "state": "plinasto",
+    "group": "18",
+    "period": "2"
   },
   "ar": {
     "id": "18",
-    "name": "argon"
+    "name": "argon",
+    "state": "plinasto",
+    "group": "18",
+    "period": "3"
   },
   "kr": {
     "id": "36",
-    "name": "kripton"
+    "name": "kripton",
+    "state": "plinasto",
+    "group": "18",
+    "period": "4"
   },
   "xe": {
     "id": "54",
-    "name": "ksenon"
+    "name": "ksenon",
+    "state": "plinasto",
+    "group": "18",
+    "period": "5"
   },
   "rn": {
     "id": "86",
-    "name": "radon"
+    "name": "radon",
+    "state": "plinasto",
+    "group": "18",
+    "period": "6"
   },
   "og": {
     "id": "118",
-    "name": "oganeson"
+    "name": "oganeson",
+    "state": "trdno",
+    "group": "18",
+    "period": "7"
   },
   "la": {
     "id": "57",
-    "name": "lantan"
+    "name": "lantan",
+    "state": "trdno",
+    "group": "3",
+    "period": "6",
+    "type": "lantanoidi"
   },
   "ce": {
     "id": "58",
-    "name": "cerij"
+    "name": "cerij",
+    "state": "trdno",
+    "group": "3",
+    "period": "6",
+    "type": "lantanoidi"
   },
   "pr": {
     "id": "59",
-    "name": "prazeodim"
+    "name": "prazeodim",
+    "state": "trdno",
+    "group": "3",
+    "period": "6",
+    "type": "lantanoidi"
   },
   "nd": {
     "id": "60",
-    "name": "neodim"
+    "name": "neodim",
+    "state": "trdno",
+    "group": "3",
+    "period": "6",
+    "type": "lantanoidi"
   },
   "pm": {
     "id": "61",
-    "name": "prometeji"
+    "name": "prometeji",
+    "state": "trdno",
+    "group": "3",
+    "period": "6",
+    "type": "lantanoidi"
   },
   "sm": {
     "id": "62",
-    "name": "samarij"
+    "name": "samarij",
+    "state": "trdno",
+    "group": "3",
+    "period": "6",
+    "type": "lantanoidi"
   },
   "eu": {
     "id": "63",
-    "name": "europij"
+    "name": "europij",
+    "state": "trdno",
+    "group": "3",
+    "period": "6",
+    "type": "lantanoidi"
   },
   "gd": {
     "id": "64",
-    "name": "gadolinij"
+    "name": "gadolinij",
+    "state": "trdno",
+    "group": "3",
+    "period": "6",
+    "type": "lantanoidi"
   },
   "tb": {
     "id": "65",
-    "name": "terbij"
+    "name": "terbij",
+    "state": "trdno",
+    "group": "3",
+    "period": "6",
+    "type": "lantanoidi"
   },
   "dy": {
     "id": "66",
-    "name": "disprozij"
+    "name": "disprozij",
+    "state": "trdno",
+    "group": "3",
+    "period": "6",
+    "type": "lantanoidi"
   },
   "ho": {
     "id": "67",
-    "name": "holmij"
+    "name": "holmij",
+    "state": "trdno",
+    "group": "3",
+    "period": "6",
+    "type": "lantanoidi"
   },
   "er": {
     "id": "68",
-    "name": "erbij"
+    "name": "erbij",
+    "state": "trdno",
+    "group": "3",
+    "period": "6",
+    "type": "lantanoidi"
   },
   "tm": {
     "id": "69",
-    "name": "tulij"
+    "name": "tulij",
+    "state": "trdno",
+    "group": "3",
+    "period": "6",
+    "type": "lantanoidi"
   },
   "yb": {
     "id": "70",
-    "name": "iterbij"
+    "name": "iterbij",
+    "state": "trdno",
+    "group": "3",
+    "period": "6",
+    "type": "lantanoidi"
   },
   "lu": {
     "id": "71",
-    "name": "lutecij"
+    "name": "lutecij",
+    "state": "trdno",
+    "group": "3",
+    "period": "6",
+    "type": "lantanoidi"
   },
   "ac": {
     "id": "89",
-    "name": "aktinij"
+    "name": "aktinij",
+    "state": "trdno",
+    "group": "3",
+    "period": "7",
+    "type": "aktinoidi"
   },
   "th": {
     "id": "90",
-    "name": "torij"
+    "name": "torij",
+    "state": "trdno",
+    "group": "3",
+    "period": "7",
+    "type": "aktinoidi"
   },
   "pa": {
     "id": "91",
-    "name": "protaktinij"
+    "name": "protaktinij",
+    "state": "trdno",
+    "group": "3",
+    "period": "7",
+    "type": "aktinoidi"
   },
   "u": {
     "id": "92",
-    "name": "uran"
+    "name": "uran",
+    "state": "trdno",
+    "group": "3",
+    "period": "7",
+    "type": "aktinoidi"
   },
   "np": {
     "id": "93",
-    "name": "neptunij"
+    "name": "neptunij",
+    "state": "trdno",
+    "group": "3",
+    "period": "7",
+    "type": "aktinoidi"
   },
   "pu": {
     "id": "94",
-    "name": "plutonij"
+    "name": "plutonij",
+    "state": "trdno",
+    "group": "3",
+    "period": "7",
+    "type": "aktinoidi"
   },
   "am": {
     "id": "95",
-    "name": "americij"
+    "name": "americij",
+    "state": "trdno",
+    "group": "3",
+    "period": "7",
+    "type": "aktinoidi"
   },
   "cm": {
     "id": "96",
-    "name": "kirij"
+    "name": "kirij",
+    "state": "trdno",
+    "group": "3",
+    "period": "7",
+    "type": "aktinoidi"
   },
   "bk": {
     "id": "97",
-    "name": "berkelij"
+    "name": "berkelij",
+    "state": "trdno",
+    "group": "3",
+    "period": "7",
+    "type": "aktinoidi"
   },
   "cf": {
     "id": "98",
-    "name": "kalifornij"
+    "name": "kalifornij",
+    "state": "trdno",
+    "group": "3",
+    "period": "7",
+    "type": "aktinoidi"
   },
   "es": {
     "id": "99",
-    "name": "ajnštajni"
+    "name": "ajnštajni",
+    "state": "trdno",
+    "group": "3",
+    "period": "7",
+    "type": "aktinoidi"
   },
   "fm": {
     "id": "100",
-    "name": "fermij"
+    "name": "fermij",
+    "state": "trdno",
+    "group": "3",
+    "period": "7",
+    "type": "aktinoidi"
   },
   "md": {
     "id": "101",
-    "name": "mendelevij"
+    "name": "mendelevij",
+    "state": "trdno",
+    "group": "3",
+    "period": "7",
+    "type": "aktinoidi"
   },
   "no": {
     "id": "102",
-    "name": "nobelij"
+    "name": "nobelij",
+    "state": "trdno",
+    "group": "3",
+    "period": "7",
+    "type": "aktinoidi"
   },
   "lr": {
     "id": "103",
-    "name": "lavrencij"
+    "name": "lavrencij",
+    "state": "trdno",
+    "group": "3",
+    "period": "7",
+    "type": "aktinoidi"
   }
 }
