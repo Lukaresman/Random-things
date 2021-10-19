@@ -1,0 +1,12 @@
+{
+    "current_scores": {
+        "ask_for_element_name_correct": 0,
+        "ask_for_element_name_fail": 0,
+        "ask_for_element_symbol_correct": 0,
+        "ask_for_element_symbol_fail": 0
+    },
+    "best_score": {
+        "ask_for_element_name": 0,
+        "ask_for_element_symbol": 0
+    }
+}
