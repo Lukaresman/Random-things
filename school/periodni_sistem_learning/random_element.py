@@ -43,7 +43,7 @@ def random_element_info():
                   f"Agregatno stanje: {str(element_state).capitalize()}\n\n"
                   f"Skupina: {element_group}\nPerioda: {element_period}\n\n")
     f.close()
-    menu_script()
+    elementi_menu_script()
 
 
 def ask_for_element_name():
@@ -65,7 +65,7 @@ def ask_for_element_name():
                             score_json["current_scores"]["ask_for_element_name_fail"]
             user_input = input(f"Ime za {element_symbol.capitalize()}: ").lower()
             if user_input == "exit":
-                menu_script()
+                elementi_menu_script()
             elif user_input == "kill":
                 return
             elif user_input == "reset":
@@ -108,7 +108,7 @@ def ask_for_element_symbol():
             current_total = score_json["current_scores"]["ask_for_element_symbol_correct"] + score_json["current_scores"]["ask_for_element_symbol_fail"]
             user_input = input(f"Kemijski simbol za {element_name.capitalize()}: ").lower()
             if user_input == "exit":
-                menu_script()
+                elementi_menu_script()
             elif user_input == "kill":
                 return
             elif user_input == "reset":
@@ -147,7 +147,7 @@ def get_info_from_symbol():
                   f" Skupina: {element_group}, Perioda: {element_period}\n\n")
 
     f.close()
-    menu_script()
+    elementi_menu_script()
 
 
 def get_info_from_name():
@@ -165,10 +165,10 @@ def get_info_from_name():
                   f"Agregatno stanje: {element_state.capitalize()}"
                   f" Skupina: {element_group}, Perioda: {element_period}\n\n")
     f.close()
-    menu_script()
+    elementi_menu_script()
 
 
-def menu_script():
+def elementi_menu_script():
     clean_temp_scores()
     start_input = input("1) Prikaži podatke za naključen element\n"
                         "2) Ugotovi ime elementa z kemijskim simbolom\n"
@@ -194,12 +194,12 @@ def menu_script():
         best_ask_for_element_symbol = score_json["best_score"]["ask_for_element_symbol"]
         print(f"\nUgotovi ime elementa z kemijskim simbolom: {best_ask_for_element_symbol}\n"
               f"Ugotovi kemijski simbol z imenom elementa: {best_ask_for_element_name}\n")
-        menu_script()
+        elementi_menu_script()
     elif start_input == "kill":
         return
     else:
         print("\nUnesi eno od dovoljenih vrednosti (1,2,3,4,5)\n")
-        menu_script()
+        elementi_menu_script()
 
 
-menu_script()
+elementi_menu_script()
