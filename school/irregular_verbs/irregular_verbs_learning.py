@@ -1,33 +1,44 @@
 import json
+import random
 # TODO: irregular_verbs.json
-#  vsa koda
 
-def compare(l1, l2):
-    # here l1 and l2 must be lists
-    if len(l1) != len(l2):
-        print("False V2")
-        return False
-    l1.sort()
-    l2.sort()
-    if l1 == l2:
-        return True
+def ask_for_past_simple():
+    f = open(f'irregular_verbs.json')
+    verbs_json = json.load(f)
+    count = 0
+    random_num = random.randint(1, 34)
+    for i in verbs_json:
+        # if int(i) >= 38:
+            # return
+        count += 1
+        if count == random_num:
+            # verb_id = str(i)
+            verb_infinitive = str(verbs_json[i]["infinitive"])
+            verb_past_simple = verbs_json[i]["past_simple"]
+            verb_si = verbs_json[i]["si_meaning"]
+            user_input = input(f"Past simple for {verb_infinitive.capitalize()}: ").lower()
+            # if user_input == "exit":
+                # elementi_menu_script()
+            if user_input == "kill":
+                return
+            elif verb_past_simple == user_input:
+                print(f"Pravilno! Pomen: {verb_si}\n\n")
+            else:
+                print(f"Narobe!\nRešitev: {verb_infinitive.capitalize()} = {verb_past_simple.capitalize()},"
+                      f" Pomen: {verb_si}\n\n")
+    f.close()
+    ask_for_past_simple()
+
+def verbs_menu_script():
+    start_input = input("1) Uprašaj po past simple.\n"
+                        "Unesi število: ")
+    if start_input == "1":
+        ask_for_past_simple()
+    elif start_input == "kill":
+        return
     else:
-        return False
+        print("\nUnesi eno od dovoljenih vrednosti (1)\n")
+        verbs_menu_script()
 
-list_1 = []
-list_2 = []
 
-with open("irregular_verbs.json") as f:
-    ireguler_verbs_json = json.load(f)
-
-    for i in ireguler_verbs_json:
-        list_1.append(int(i))
-
-count = 1
-while count <= 80:
-    list_2.append(count)
-    count += 1
-
-print(list_1)
-print(list_2)
-print(f"list_1 == list_2: {compare(list_1, list_2)} ")
+verbs_menu_script()
